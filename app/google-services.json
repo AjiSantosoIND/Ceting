@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "137648908124",
+    "firebase_url": "https://catt-34870.firebaseio.com",
+    "project_id": "catt-34870",
+    "storage_bucket": "catt-34870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137648908124:android:57e0cb2c2585f129430399",
+        "android_client_info": {
+          "package_name": "com.adjiesantoso.diskusi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137648908124-kt37lujrdopj8kqs1jn0q6810ark0a3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJuIvsatikUXYKZ1NR1PxDZbAc683SVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137648908124-kt37lujrdopj8kqs1jn0q6810ark0a3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137648908124:android:920ec7f513ac3ed8430399",
+        "android_client_info": {
+          "package_name": "com.chatting.ceting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137648908124-kt37lujrdopj8kqs1jn0q6810ark0a3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJuIvsatikUXYKZ1NR1PxDZbAc683SVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137648908124-kt37lujrdopj8kqs1jn0q6810ark0a3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137648908124:android:09ea7012f4f790fd430399",
+        "android_client_info": {
+          "package_name": "com.traveldalamberita.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137648908124-kt37lujrdopj8kqs1jn0q6810ark0a3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJuIvsatikUXYKZ1NR1PxDZbAc683SVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137648908124-kt37lujrdopj8kqs1jn0q6810ark0a3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

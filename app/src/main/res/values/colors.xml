@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="dialog_background">#2B2C33</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="edit_text_background">#434448</color>
+    <color name="action_button_color_start">#2CB9B0</color>
+    <color name="action_button_color_end">#38EF7D</color>
+    <color name="action_button_border">#979797</color>
+</resources>

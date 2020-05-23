@@ -1,0 +1,15 @@
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item tools:ignore="StateListReachable">
+        <shape android:shape="rectangle">
+            <gradient android:angle="90" android:endColor="@color/action_button_color_end" android:startColor="@color/action_button_color_start" android:type="linear" />
+
+            <corners android:radius="@dimen/dp32" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white" />
+            <corners android:radius="@dimen/dp32" />
+        </shape>
+    </item>
+</selector>
