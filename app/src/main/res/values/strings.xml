@@ -9,4 +9,10 @@
     <string name="nearby_friend_desc"><![CDATA[Find your all friends in one place by\nsigning the apps quick & easily.]]></string>
     <string name="have_an_account">Have an account? Sign In</string>
     <string name="join_us_free">Join us, its free</string>
+    <string name="loading">Loading</string>
+    <string name="login_success">Login Success</string>
+    <string name="ok">Ok</string>
+    <string name="open_chat">Open Chat</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="sign_in_in">Sign In</string>
 </resources>

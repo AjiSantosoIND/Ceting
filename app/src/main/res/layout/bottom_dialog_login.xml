@@ -45,6 +45,7 @@
             app:hintTextColor="@color/white">
 
             <EditText
+                android:id="@+id/et_email"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/email"
@@ -69,6 +70,7 @@
             app:passwordToggleTint="@color/white">
 
             <EditText
+                android:id="@+id/et_password"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/password"
@@ -79,6 +81,7 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <Button
+            android:id="@+id/btn_sign_in"
             style="@style/RobotoRegular"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
