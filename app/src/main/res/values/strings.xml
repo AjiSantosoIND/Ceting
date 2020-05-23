@@ -4,4 +4,9 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="sign_in">Sign In</string>
+    <string name="discover_your_nearby">Discover your</string>
+    <string name="nearby_friend">Nearby Friends</string>
+    <string name="nearby_friend_desc"><![CDATA[Find your all friends in one place by\nsigning the apps quick & easily.]]></string>
+    <string name="have_an_account">Have an account? Sign In</string>
+    <string name="join_us_free">Join us, its free</string>
 </resources>

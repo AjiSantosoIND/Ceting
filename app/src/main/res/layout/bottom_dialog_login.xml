@@ -65,7 +65,8 @@
             android:paddingBottom="@dimen/dp8"
             android:textColorHint="@color/white"
             app:hintTextColor="@color/white"
-            app:passwordToggleEnabled="true">
+            app:passwordToggleEnabled="true"
+            app:passwordToggleTint="@color/white">
 
             <EditText
                 android:layout_width="match_parent"

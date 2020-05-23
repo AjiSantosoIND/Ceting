@@ -1,17 +1,15 @@
 package com.chatting.ceting
 
-import android.graphics.Color
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.chatting.ceting.componentviews.LoginBottomDialog
+import com.chatting.ceting.login.LoginActivity
+import org.jetbrains.anko.startActivity
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : BaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val dialog = LoginBottomDialog()
-        dialog.show(supportFragmentManager, "")
+        startActivity<LoginActivity>()
     }
 }
