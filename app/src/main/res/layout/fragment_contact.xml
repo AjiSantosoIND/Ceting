@@ -5,6 +5,7 @@
     android:layout_height="match_parent">
 
     <ViewSwitcher
+        android:id="@+id/view_switcher"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -44,6 +45,11 @@
                     android:text="@string/no_conversation_desc" />
             </LinearLayout>
         </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_contact"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
 
     </ViewSwitcher>
 

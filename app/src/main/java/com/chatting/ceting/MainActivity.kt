@@ -17,8 +17,8 @@ class MainActivity : BaseActivity() {
         menu_bottom.setOnNavigationItemSelectedListener {
             val visibleFragment = when (it.itemId) {
                 R.id.contact -> ContactFragment()
-                R.id.chat -> ChatFragment()
-                else -> ChatFragment()
+                R.id.chat -> RoomMessageFragment()
+                else -> RoomMessageFragment()
             }
 
             supportFragmentManager.beginTransaction()

@@ -4,4 +4,6 @@ import com.google.firebase.auth.FirebaseUser
 
 data class User(
     val firebaseUser: FirebaseUser
-)
+) {
+    fun displayName(): String = firebaseUser.displayName ?: ""
+}

@@ -30,4 +30,7 @@
     <string name="search">Search</string>
     <string name="add_person">Person</string>
     <string name="no_contact">No Contact</string>
+    <string name="sample_name">John Doe</string>
+    <string name="sample_status">Live like larry</string>
+    <string name="sample_message_time">3m ago</string>
 </resources>
